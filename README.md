@@ -10,8 +10,8 @@ Customer journey
 - Sunburst
 
 
-<<<<<<< HEAD
-ernesto
-=======
+
 Francisco
->>>>>>> master
+
+Ernesto 
+
