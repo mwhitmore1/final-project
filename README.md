@@ -4,7 +4,7 @@ Identifying High Valueble Customers by modeling Life Time Value (LTV).
 Team Members: Ernesto Beltran, Aparna, Mike Whitmore and Francisco Lobeira
 
 Objective: 
-Predict Customer Life-time Value (LTV)for an Auto Insurance Company.
+Predict Customer Life-time Value (LTV)for a Auto Insurance Company.
 The lifetime value of a customer, or customer lifetime value (LTV), represents the total amount of money a 
 customer is expected to spend in business, or on products, during their lifetime. This is an important figure
 to know because it helps company to make decisions about how much money to invest in acquiring new customers 
@@ -52,4 +52,8 @@ Customer journey
 - Sunburst
 
 
+
 Francisco
+
+Ernesto 
+
