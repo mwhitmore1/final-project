@@ -3,6 +3,9 @@ Identifying High Valueble Customers by modeling Life Time Value (LTV).
 
 Team Members: Ernesto Beltran,Mike Whitmore,Francisco Lobeira,Aparna
 
+### URL FOR DATA :- https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
+
+
 Objective: 
 Predict Customer Life-time Value (LTV)for a Auto Insurance Company.
 The lifetime value of a customer, or customer lifetime value (LTV), represents the total amount of money a 
@@ -33,6 +36,20 @@ Process:
 6. Dashboard
 
 #### Summary visuals
+
+
+High school education is almost 1300k total claims.
+Max CLV is 84,000$ and 2893$ is  highest total claim amount per customer
+Personal auto , no of  claims is highest that is costing more money to insurance 
+Bachelor ,college and high school  education background are doing highest no of claims
+Basic coverage 4 door car is highest at 854k and is highest in any coverage taken.
+Luxury car is least total claims irrespective of coverage type.
+Count of female is more than male
+3150 is max no of complaints from california and total claim amount also highest
+Average value of female almost same as male. Claim value independent of gender 
+Most claims highest in california and 
+Male ,female per policy cost in Nevada is very variant.
+
 
 
 * If time allows: We would also like to take into acount claims and estimate a cost for the company and deduct from LTV,
