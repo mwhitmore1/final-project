@@ -47,7 +47,7 @@ const fieldMeta = [{
             coefficient: 88.12
     }]
 }, {
-    name: "Eployment Status",
+    name: "Employment Status",
     choices: [{
             name: "Employed",
             coefficient: 37.87
@@ -120,8 +120,8 @@ const fieldMeta = [{
     }]
 }];
 
-const intercept = 4;
-const totalLabel = "Projected Total Cusotmer Life Time Value: $";
+const intercept = 3821.35;
+const totalLabel = "Projected Total LTV: $";
 
 d3.select("#total-value").text(totalLabel);
 
