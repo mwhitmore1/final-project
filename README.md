@@ -3,6 +3,7 @@ Identifying High Valueble Customers by modeling Life Time Value (LTV).
 
 Team Members: Ernesto Beltran, Aparna, Mike Whitmore and Francisco Lobeira
 
+
 Objective: 
 Predict Customer Life-time Value (LTV)for a Auto Insurance Company.
 The lifetime value of a customer, or customer lifetime value (LTV), represents the total amount of money a 
@@ -32,10 +33,15 @@ Process:
 5. Neural Network Model
 6. Dashboard
 
+![](https://github.com/mwhitmore1/final-project/blob/aparna/TABLUEAIMAGES/dataundestanding.png)
 
-
-* If thime allows: We would also like to take into acount claims and estimate a cost for the company and deduct from LTV,
+* If time allows: We would also like to take into acount claims and estimate a cost for the company and deduct from LTV,
 in order to have a more comprehensive metric.
+
+
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 OLD README:
