@@ -39,7 +39,7 @@ Process:
 LTV is the y variable (target variable) for all out models. Predict Customer Lifetime Value (LTV)for a Auto Insurance Company. The lifetime value of a customer, or customer lifetime value (LTV), represents the total amount of money a customer is expected to spend in business, or on products, during their lifetime. This is an important figure to know because it helps company to make decisions about how much money to invest in acquiring new customers and retaining existing ones. We will build different models ranging from linear regressions to deep learning. After assessing the reliability and performance of each model, we will create an inputs dashboard where the company's management team will be able to input the independent variables and rank potential customers in order to allocate effective resources. We believe this model can dictate the marketing budget and allocation.
 
 
-
+![](https://github.com/mwhitmore1/final-project/blob/aparna/TABLUEAIMAGES/dataundestanding.png)
 
 #### Summary visuals
 
