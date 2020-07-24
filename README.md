@@ -56,6 +56,7 @@ Average value of female almost same as male. Claim value independent of gender
 Most claims highest in california and 
 Male ,female per policy cost in Nevada is very variant.
 
+### URL FOR SLIDES :- https://docs.google.com/presentation/d/1dJ-ghtfjRYkKLlFAdKNnC1YD5xWnhuZTl0iQwOMRVbU/edit?ts=5f175fae#slide=id.g8dd572efe9_0_134
 
 
 * If time allows: We would also like to take into acount claims and estimate a cost for the company and deduct from LTV,
@@ -74,6 +75,8 @@ Funnels.
 - bar chart
 Customer journey
 - Sunburst
+
+
 
 
 
